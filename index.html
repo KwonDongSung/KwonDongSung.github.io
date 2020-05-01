@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="home">
-
+<div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </div>
   <h1 class="page-heading">Posts menu</h1>
 
   <ul class="post-list">
