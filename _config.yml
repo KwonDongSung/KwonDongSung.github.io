@@ -2,7 +2,6 @@
 title: Kwon Dong Sung
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kwondongsung.github.io" # the base hostname & protocol for your site
 twitter_username: username
