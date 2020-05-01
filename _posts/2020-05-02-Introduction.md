@@ -3,7 +3,7 @@ Introduction
 
 Name : Kwon Dong Sung
 
-Age : 23
+Student ID : 21700045
 
 Major : product design , computer engineering
 
