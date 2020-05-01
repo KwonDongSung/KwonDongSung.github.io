@@ -1,6 +1,8 @@
 ---
 title : "Introduction"
-categocy : introduction
+category : introduction
+---
+
 Introduction
 =======
 
