@@ -1,1 +1,2 @@
-# KwonDongSung.github.io
+# 2020OSS
+# Kwon Dong Sung
